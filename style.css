@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: cornflowerblue;
+    background-image: url(img/pattern.png);
+    height: 180px;
+}
+
+#Logo{
+    width: 20%;
+    margin-top: 8%;
+}
+
+.container{
+    width: 55%;
+    margin: 0 auto;
+
+}
+
+.title h1{
+    font-size: 38px;
+    margin-bottom: 0;
+}
+
+.author p{
+    color: grey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.photos img{
+    margin-top: 2%;
+}
+
+.photos p{
+    font-size: small;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
